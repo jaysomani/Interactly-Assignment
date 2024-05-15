@@ -1,0 +1,10 @@
+.deleteBtn {
+  border: none;
+}
+
+.delete {
+
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
