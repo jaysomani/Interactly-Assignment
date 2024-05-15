@@ -1,1 +1,42 @@
 # Interactly-Assignment
+
+
+I used the following libraries to build this application:
+
+- [React.js](https://reactjs.org/): A JavaScript library for building user interfaces.
+- [Redux](https://redux.js.org/): A predictable state container for JavaScript apps.
+- [ReactFlow](https://reactflow.dev/): A library for building node-based graphs and visualizations in React
+
+## Table of Contents
+
+- [Setup and Installation](#setup-and-installation)
+- [Running Locally](#running-locally)
+- [CRUD Operations](#crud-operations)
+
+## Setup and Installation
+
+1. Clone the repository to your local machine using the following command: `https://github.com/jaysomani/Interactly-Assignment.git`
+
+2. Navigate to the project directory: `cd Interactly-Assignment`
+
+3. Install dependencies using the command: `npm install`
+
+## Running Locally
+
+To run the project locally after completing the setup and installation steps:
+
+1. Start the development server using command: `npm start`
+
+2. Open your web browser and navigate to `http://localhost:5173` to view the application.
+
+## CRUD Operations
+
+To perform create, update, and delete operations:
+
+1. **Create Node**: To create a new node, click on the top-left button labeled `Create Node`.
+
+2. **Update Node**: To update a node, click on the node, then the right sidebar will open. Make your changes and click on save.
+
+3. **Delete Node**: To delete a node, hover over the node. The delete icon will appear in the top-right corner of that node. Click on it to delete.
+
+4. **Delete Edge**: To delete an edge, click on the delete icon located in the middle of that edge.
